@@ -46,7 +46,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umutdurn&" alt="umutdurn" /></p>
 
-<h3 align="left">Hobby (Gaming) - Youtube </h3>
+<summary><h2>📸 Hobby (Gaming) - Youtube Videos</h2></summary>
+
 <!-- BEGIN YOUTUBE-CARDS -->
 [![AHH LUIS ÜZÜMLÜ KEKİM.. MACERA DEVAM EDİYOR | RESIDENT EVIL 4: SEPARATE WAYS #4](https://ytcards.demolab.com/?id=kX9BZDXy7NY&title=AHH+LUIS+%C3%9CZ%C3%9CML%C3%9C+KEK%C4%B0M..+MACERA+DEVAM+ED%C4%B0YOR+%7C+RESIDENT+EVIL+4%3A+SEPARATE+WAYS+%234&lang=en&timestamp=1711648821&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "AHH LUIS ÜZÜMLÜ KEKİM.. MACERA DEVAM EDİYOR | RESIDENT EVIL 4: SEPARATE WAYS #4")](https://www.youtube.com/watch?v=kX9BZDXy7NY)
 [![[FİNAL] DELİLAR HASTANESİNİ YERLE BİR EDELİM | ALONE IN THE DARK #5](https://ytcards.demolab.com/?id=B9sufbzdTpg&title=%5BF%C4%B0NAL%5D+DEL%C4%B0LAR+HASTANES%C4%B0N%C4%B0+YERLE+B%C4%B0R+EDEL%C4%B0M+%7C+ALONE+IN+THE+DARK+%235&lang=en&timestamp=1711562405&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "[FİNAL] DELİLAR HASTANESİNİ YERLE BİR EDELİM | ALONE IN THE DARK #5")](https://www.youtube.com/watch?v=B9sufbzdTpg)
