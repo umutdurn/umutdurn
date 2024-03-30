@@ -45,3 +45,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umutdurn&show_icons=true&locale=en" alt="umutdurn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umutdurn&" alt="umutdurn" /></p>
+
+<h3 align="left">Hobby (Gaming) - Youtube </h3>
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
