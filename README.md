@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umut Duran</h1>
 <h3 align="center">A passionate Full-Stack developer from Turkey</h3>
 
-- 💬 Ask me about **.Net, .Net Framework, EF, MsSQL, Oracle, HTML5, CSS3, React, Javascript**
+- 💬 Ask me about **.Net, .Net Framework, MVC, EF, MsSQL, Oracle, HTML5, CSS3, React, Javascript**
 
 - 📫 How to reach me **umutdurn@gmail.com**
 
